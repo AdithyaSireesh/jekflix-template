@@ -3,7 +3,7 @@
   
   
     {
-      "title"    : "Teste",
+      "title"    : "Intro",
       "tags"     : "Teste",
       "categories" : "{{slug}}",
       "url"      : "/teste/",

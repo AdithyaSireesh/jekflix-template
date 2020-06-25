@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: QML.ai
+title: QML.ai | A blog for Quantum Machine Learning
+description: QML.ai is a blog for discussing developments in Quantum Machine Learning.
 tags:
   - blog
   - template
@@ -18,8 +18,6 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
 
 
 # Social Media Settings
@@ -40,7 +38,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "https://adithyasireesh.github.io/jekflix-template" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
@@ -100,4 +98,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: v1.0
