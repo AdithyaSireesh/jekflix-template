@@ -11,9 +11,6 @@ description: Some description.
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+"Why does this blog even exist?" is the question you might be asking yourselves. It has been 5 to 6 years since
+Machine Learning started becoming mainstream. Many took to the internet to create resources and learning materials to make it easy for literally anyone to learn, build and deploy ML models from the comfort of their bedrooms. Now, the similar trend is starting to emerge in the field of Quantum Computing.<br/><br/>
+But, this blog isn't looking at the present. It is looking into the not so distant future. A future where these two superpowers(Quantum and ML) will go hand in hand to help humanity reach greater heights than ever before. We need to be ready for that future, and this blog will hopefully serve as an inspiration for some you readers out there to start exploring/researching the field of Quantum Machine Learning.
