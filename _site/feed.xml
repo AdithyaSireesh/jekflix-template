@@ -5,14 +5,14 @@
     <description>QML.ai is a blog for discussing developments in Quantum Machine Learning.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2020 01:23:14 +0100</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2020 01:23:14 +0100</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2020 15:28:01 +0100</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2020 15:28:01 +0100</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
         <title>Intro to Blog</title>
         <description>&lt;h1 id=&quot;wtf-is-quantum-ml&quot;&gt;Wtf is Quantum ML?&lt;/h1&gt; &lt;p&gt;Seems like some crazy computer scientists and physicists took two really complicated fields and made an even more complicated field. Surprisingly, that is not a bad way to put it. To see what this field is and how it came about, I think we need some background on the 2 areas that make up QML: Quantum Computing and Machine Learning. &lt;br /&gt; Over the coming weeks, we will dive deep into the field of Quantum Computing and also see how it ties up with Machine Learning. Some of the stuff to look forward to include:&lt;/p&gt;...</description>
-        <pubDate>Thu, 25 Jun 2020 01:54:34 +0100</pubDate>
+        <pubDate>Thu, 25 Jun 2020 01:52:00 +0100</pubDate>
         <link>http://localhost:4000/intro-to-blog/</link>
         <guid isPermaLink="true">http://localhost:4000/intro-to-blog/</guid>
         
@@ -24,7 +24,7 @@
         
         <category>quantum machine learning</category>
         
-        <category>{}</category>
+        <category>blog</category>
       </item>
     
   </channel>

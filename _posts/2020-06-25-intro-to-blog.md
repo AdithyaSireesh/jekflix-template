@@ -1,12 +1,12 @@
 ---
-date: 2020-06-25 00:54:34
+date: 2020-06-25 00:52:00
 layout: post
 title: Intro to Blog
 subtitle: A brief introduction about what this blog entails!!
 description: "A brief introduction about what this blog entails!!"
 image: /assets/img/uploads/profile.png
 optimized_image: /assets/img/uploads/profile.png
-category: {{slug}}
+category: blog
 tags:
   - introduction
   - quantum computing

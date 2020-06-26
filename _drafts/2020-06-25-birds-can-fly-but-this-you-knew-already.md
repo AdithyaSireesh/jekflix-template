@@ -1,5 +1,5 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2020-06-25 00:53:34
 layout: post
 title: Birds can fly, but this you knew already
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -124,12 +124,3 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
